@@ -29,7 +29,7 @@ echo "\033[36;1m"
 echo "[===============================================[>"
 echo $green "1.> Spam Sms Tokopedia"
 echo "[===============================================]>"
-echo $purple "2.> Spam Sms Telkomnyet"
+echo $purple "2.> Spam Sms Telkom"
 echo "[===============================================]>"
 echo $cyan "3.> Spam Sms Matahari Mall"
 echo "[===============================================]>"
@@ -43,7 +43,7 @@ echo $purple "7.> Spam Sms Whiskas"
 echo "[===============================================]>"
 echo $cyan "8.> Spam Sms ZiPAY"
 echo "[===============================================]>"
-echo $red "9.> Nyari CC buat Carding"
+echo $red "9.> Cari CC buat Carding"
 echo "[===============================================]>"
 echo $white "10.> Spam Akun Gmail"
 echo "[===============================================]>"
@@ -430,7 +430,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[+]===============================================[+]"
 echo "\033[32;1m"
-read -p "root@T00Ls-B4J1N64Nv6~#" bro
+read -p "root@sachiiexploit" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
